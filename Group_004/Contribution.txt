@@ -1,0 +1,43 @@
+1805006 - Tanjeem Azwad Zaman
+- Looking into and explaining the basic concepts of Treewidth. Explaining different terminologies and definitions.
+- Exact Algorithm: PID-BT:
+	-- Understanding and explaining the prerequites terminologies and theoretical concepts
+	-- Understanding and explaining the algorithm and pseudocode
+- Perparing own section in slide + helping out with animations in other parts
+
+
+1805008 - Abdur Rafi
+- Understanding the basic concepts of Treewidth.
+- Participating in selection of a heuristic algorithm
+- Heuristic Algorithm: Flow-Cutter
+    -- Going through the paper to understand how the algorithm works
+    -- Creating an example that shows the working of the entire algorithm, including generating cut and the nested dissection method.
+    -- Creating my portion of the slides (The Core Flow Cutter algorithm).
+    
+1805010 - Anwarul Bashir Shuaib
+- Demonstrating real-world examples and applications of tree decomposition
+- Creating my portion of the slides (Animating Abdur Rafi's tree decomposition example using nested dissection method)
+- Heuristic Algorithm: Flow-Cutter
+    -- Running the heuristic implementation of tree decomposition on various instances
+    -- Plotting performance ratio against number of nodes, edges, bags, etc.
+    -- Creating scripts to automate runs across all of the provided instances
+
+
+1805019 - Md Rownok Zahan Ratul
+- Studying the literature for NP-completeness proof of treewidth. In addition, understanding MCLA problem and the reduction between these MCLA and Treewidth
+- Exact algorithm: PID-BT:
+        -- Studying the base paper of BT algorithm and ACP algorithm for understanding the trivial approach.
+        -- Understanding the PID-ACP algorithm and how this thought process evolved to PID-BT version of the algorithm
+        -- Runtime and complexity analysis, proofs that supports the PID-BT algorithm
+        -- Helping out the implementation and interpreting the results as graph forms.
+
+1805030 - MD Toki Tahmid
+- Executing the codebase of PID-BT algorithm for exact track
+- Generating comparative plots for executtion time, number of bags generated, and treewidth
+
+- Heuristic algorithm : Min degree heuristic:
+
+    -- Implmentation of the algorithm in python
+    -- Generating necessary plots for the running time and treewidth with respect to the number of nodes and edges
+    -- Comparing the performance with the PID-BT algorithm
+    -- Writing script for treewidth visualization from a given graph
